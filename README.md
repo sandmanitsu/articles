@@ -10,3 +10,6 @@ fav articles
 
 # Grafana
 - Grafana Guide - How to Graph HTTP Requests per Minute https://signoz.io/guides/grafana-graphing-http-requests-per-minute-with-http-server-requests-seconds-count/
+
+# Other
+- Rate Limiting Algorithms Explained with Code - https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code
