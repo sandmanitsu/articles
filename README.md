@@ -13,5 +13,8 @@
 # Message Queue
 - What are Message Queues and When to Use Them? https://blog.algomaster.io/p/message-queues
 
+# Microservices 
+- Twelve factor app https://12factor.net/
+
 # Other
 - Rate Limiting Algorithms Explained with Code - https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code
