@@ -18,3 +18,6 @@
 
 # Other
 - Rate Limiting Algorithms Explained with Code - https://blog.algomaster.io/p/rate-limiting-algorithms-explained-with-code
+
+# Tools
+- Golang CI lint - https://golangci-lint.run/
